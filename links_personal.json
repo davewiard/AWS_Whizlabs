@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Google Mail",
+    "uri": "https://www.gmail.com/",
+    "category": "Personal"
+  },
+  {
+    "name": "Udemy",
+    "uri": "https://www.udemy.com/",
+    "category": "Education"
+  }
+]
+
